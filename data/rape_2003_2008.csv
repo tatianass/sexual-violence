@@ -1,0 +1,619 @@
+region;subregion;country_territory;count;year;count_per_1000;match_definition
+Europe;Southern Europe;Albania;;2003;;1
+Europe;Southern Europe;Albania;;2004;;1
+Europe;Southern Europe;Albania;;2005;;1
+Europe;Southern Europe;Albania;;2006;;1
+Europe;Southern Europe;Albania;40;2007;1,3;1
+Europe;Southern Europe;Albania;34;2008;1,1;1
+Africa;Northern Africa;Algeria;723;2003;2,3;
+Africa;Northern Africa;Algeria;630;2004;1,9;
+Africa;Northern Africa;Algeria;376;2005;1,1;
+Africa;Northern Africa;Algeria;495;2006;1,5;
+Africa;Northern Africa;Algeria;;2007;;
+Africa;Northern Africa;Algeria;;2008;;
+Americas;South America;Argentina;;2003;;1
+Americas;South America;Argentina;;2004;;1
+Americas;South America;Argentina;3154;2005;8,1;1
+Americas;South America;Argentina;3264;2006;8,3;1
+Americas;South America;Argentina;3276;2007;8,3;1
+Americas;South America;Argentina;;2008;;1
+Asia;Western Asia;Armenia;3;2003;0,1;1
+Asia;Western Asia;Armenia;12;2004;0,4;1
+Asia;Western Asia;Armenia;23;2005;0,8;1
+Asia;Western Asia;Armenia;10;2006;0,3;1
+Asia;Western Asia;Armenia;8;2007;0,3;1
+Asia;Western Asia;Armenia;19;2008;0,6;1
+Europe;Western Europe;Austria;;2003;;
+Europe;Western Europe;Austria;;2004;;
+Europe;Western Europe;Austria;678;2005;8,2;
+Europe;Western Europe;Austria;700;2006;8,5;
+Europe;Western Europe;Austria;;2007;;
+Europe;Western Europe;Austria;;2008;;
+Asia;Western Asia;Azerbaijan;49;2003;0,6;1
+Asia;Western Asia;Azerbaijan;25;2004;0,3;1
+Asia;Western Asia;Azerbaijan;44;2005;0,5;1
+Asia;Western Asia;Azerbaijan;35;2006;0,4;1
+Asia;Western Asia;Azerbaijan;34;2007;0,4;1
+Asia;Western Asia;Azerbaijan;25;2008;0,3;1
+Asia;Western Asia;Bahrain;19;2003;2,7;1
+Asia;Western Asia;Bahrain;27;2004;3,8;1
+Asia;Western Asia;Bahrain;25;2005;3,4;1
+Asia;Western Asia;Bahrain;17;2006;2,3;1
+Asia;Western Asia;Bahrain;21;2007;2,8;1
+Asia;Western Asia;Bahrain;36;2008;4,6;1
+Europe;Eastern Europe;Belarus;432;2003;4,4;0
+Europe;Eastern Europe;Belarus;386;2004;3,9;0
+Europe;Eastern Europe;Belarus;483;2005;4,9;0
+Europe;Eastern Europe;Belarus;353;2006;3,6;0
+Europe;Eastern Europe;Belarus;336;2007;3,5;0
+Europe;Eastern Europe;Belarus;240;2008;2,5;0
+Europe;Western Europe;Belgium;2850;2003;27,6;1
+Europe;Western Europe;Belgium;2918;2004;28,2;1
+Europe;Western Europe;Belgium;2990;2005;28,7;1
+Europe;Western Europe;Belgium;3130;2006;29,9;1
+Europe;Western Europe;Belgium;3111;2007;29,5;1
+Europe;Western Europe;Belgium;2786;2008;26,3;1
+Americas;Central America;Belize;;2003;;
+Americas;Central America;Belize;;2004;;
+Americas;Central America;Belize;48;2005;17;
+Americas;Central America;Belize;44;2006;15,3;
+Americas;Central America;Belize;;2007;;
+Americas;Central America;Belize;;2008;;
+Americas;North America;Bermuda;36;2003;56,5;
+Americas;North America;Bermuda;43;2004;67,2;
+Americas;North America;Bermuda;;2005;;
+Americas;North America;Bermuda;;2006;;
+Americas;North America;Bermuda;;2007;;
+Americas;North America;Bermuda;;2008;;
+Europe;Southern Europe;Bosnia and Herzegovina;;2003;;
+Europe;Southern Europe;Bosnia and Herzegovina;;2004;;
+Europe;Southern Europe;Bosnia and Herzegovina;39;2005;1;
+Europe;Southern Europe;Bosnia and Herzegovina;40;2006;1,1;
+Europe;Southern Europe;Bosnia and Herzegovina;;2007;;
+Europe;Southern Europe;Bosnia and Herzegovina;;2008;;
+Asia;South-Eastern Asia;Brunei Darussalam;24;2003;6,8;
+Asia;South-Eastern Asia;Brunei Darussalam;26;2004;7,2;
+Asia;South-Eastern Asia;Brunei Darussalam;24;2005;6,5;
+Asia;South-Eastern Asia;Brunei Darussalam;28;2006;7,4;
+Asia;South-Eastern Asia;Brunei Darussalam;;2007;;
+Asia;South-Eastern Asia;Brunei Darussalam;;2008;;
+Europe;Eastern Europe;Bulgaria;611;2003;7,8;1
+Europe;Eastern Europe;Bulgaria;529;2004;6,8;1
+Europe;Eastern Europe;Bulgaria;403;2005;5,2;1
+Europe;Eastern Europe;Bulgaria;310;2006;4;1
+Europe;Eastern Europe;Bulgaria;225;2007;2,9;1
+Europe;Eastern Europe;Bulgaria;262;2008;3,5;1
+Africa;Middle Africa;Cameroon;451;2003;2,7;1
+Africa;Middle Africa;Cameroon;555;2004;3,2;1
+Africa;Middle Africa;Cameroon;592;2005;3,3;1
+Africa;Middle Africa;Cameroon;580;2006;3,2;1
+Africa;Middle Africa;Cameroon;447;2007;2,4;1
+Africa;Middle Africa;Cameroon;;2008;;1
+Americas;North America;Canada;531;2003;1,7;0
+Americas;North America;Canada;587;2004;1,8;0
+Americas;North America;Canada;565;2005;1,7;0
+Americas;North America;Canada;570;2006;1,7;0
+Americas;North America;Canada;528;2007;1,6;0
+Americas;North America;Canada;491;2008;1,5;0
+Americas;South America;Chile;1658;2003;10,4;1
+Americas;South America;Chile;2372;2004;14,7;1
+Americas;South America;Chile;2636;2005;16,2;1
+Americas;South America;Chile;4368;2006;26,5;1
+Americas;South America;Chile;;2007;;1
+Americas;South America;Chile;;2008;;1
+Americas;Central America;Costa Rica;576;2003;13,8;
+Americas;Central America;Costa Rica;600;2004;14,1;
+Americas;Central America;Costa Rica;543;2005;12,5;
+Americas;Central America;Costa Rica;485;2006;11;
+Americas;Central America;Costa Rica;;2007;;
+Americas;Central America;Costa Rica;;2008;;
+Europe;Southern Europe;Croatia;213;2003;4,8;1
+Europe;Southern Europe;Croatia;165;2004;3,7;1
+Europe;Southern Europe;Croatia;142;2005;3,2;1
+Europe;Southern Europe;Croatia;187;2006;4,2;1
+Europe;Southern Europe;Croatia;162;2007;3,7;1
+Europe;Southern Europe;Croatia;188;2008;4,3;1
+Asia;Western Asia;Cyprus;32;2003;3,9;1
+Asia;Western Asia;Cyprus;41;2004;5;1
+Asia;Western Asia;Cyprus;39;2005;4,7;1
+Asia;Western Asia;Cyprus;29;2006;3,4;1
+Asia;Western Asia;Cyprus;19;2007;2,2;1
+Asia;Western Asia;Cyprus;34;2008;3,9;1
+Europe;Eastern Europe;Czech Republic;646;2003;6,3;1
+Europe;Eastern Europe;Czech Republic;687;2004;6,7;1
+Europe;Eastern Europe;Czech Republic;596;2005;5,8;1
+Europe;Eastern Europe;Czech Republic;530;2006;5,2;1
+Europe;Eastern Europe;Czech Republic;637;2007;6,2;1
+Europe;Eastern Europe;Czech Republic;529;2008;5,1;1
+Europe;Northern Europe;Denmark;472;2003;8,8;
+Europe;Northern Europe;Denmark;562;2004;10,4;
+Europe;Northern Europe;Denmark;475;2005;8,8;
+Europe;Northern Europe;Denmark;527;2006;9,7;
+Europe;Northern Europe;Denmark;492;2007;9;
+Europe;Northern Europe;Denmark;396;2008;7,3;
+Americas;South America;Ecuador;1488;2003;11,6;
+Americas;South America;Ecuador;1246;2004;9,6;
+Americas;South America;Ecuador;1499;2005;11,5;
+Americas;South America;Ecuador;1484;2006;11,2;
+Americas;South America;Ecuador;;2007;;
+Americas;South America;Ecuador;;2008;;
+Africa;Northern Africa;Egypt;20;2003;0;
+Africa;Northern Africa;Egypt;21;2004;0;
+Africa;Northern Africa;Egypt;44;2005;0,1;
+Africa;Northern Africa;Egypt;48;2006;0,1;
+Africa;Northern Africa;Egypt;63;2007;0,1;
+Africa;Northern Africa;Egypt;87;2008;0,1;
+Americas;Central America;El Salvador;;2003;;
+Americas;Central America;El Salvador;;2004;;
+Americas;Central America;El Salvador;1185;2005;19,6;
+Americas;Central America;El Salvador;1140;2006;18,7;
+Americas;Central America;El Salvador;;2007;;
+Americas;Central America;El Salvador;;2008;;
+Europe;Northern Europe;Estonia;107;2003;7,9;1
+Europe;Northern Europe;Estonia;121;2004;9;1
+Europe;Northern Europe;Estonia;179;2005;13,3;1
+Europe;Northern Europe;Estonia;153;2006;11,4;1
+Europe;Northern Europe;Estonia;122;2007;9,1;1
+Europe;Northern Europe;Estonia;160;2008;11,9;1
+Europe;Northern Europe;Finland;573;2003;11;1
+Europe;Northern Europe;Finland;595;2004;11,4;1
+Europe;Northern Europe;Finland;593;2005;11,3;1
+Europe;Northern Europe;Finland;613;2006;11,6;1
+Europe;Northern Europe;Finland;739;2007;14;1
+Europe;Northern Europe;Finland;915;2008;17,2;1
+Europe;Western Europe;France;10408;2003;17,3;1
+Europe;Western Europe;France;10506;2004;17,3;1
+Europe;Western Europe;France;9993;2005;16,4;1
+Europe;Western Europe;France;9784;2006;15,9;1
+Europe;Western Europe;France;10132;2007;16,4;1
+Europe;Western Europe;France;10277;2008;16,6;1
+Asia;Western Asia;Georgia;52;2003;1,1;
+Asia;Western Asia;Georgia;62;2004;1,4;
+Asia;Western Asia;Georgia;141;2005;3,2;
+Asia;Western Asia;Georgia;167;2006;3,8;
+Asia;Western Asia;Georgia;;2007;;
+Asia;Western Asia;Georgia;;2008;;
+Europe;Western Europe;Germany;8766;2003;10,6;1
+Europe;Western Europe;Germany;8831;2004;10,7;1
+Europe;Western Europe;Germany;8133;2005;9,9;1
+Europe;Western Europe;Germany;8118;2006;9,9;1
+Europe;Western Europe;Germany;7511;2007;9,1;1
+Europe;Western Europe;Germany;7292;2008;8,9;1
+Europe;Southern Europe;Greece;231;2003;2,1;1
+Europe;Southern Europe;Greece;240;2004;2,2;1
+Europe;Southern Europe;Greece;232;2005;2,1;1
+Europe;Southern Europe;Greece;267;2006;2,4;1
+Europe;Southern Europe;Greece;218;2007;2;1
+Europe;Southern Europe;Greece;;2008;;1
+Africa;Western Africa;Guinea;;2003;;1
+Africa;Western Africa;Guinea;;2004;;1
+Africa;Western Africa;Guinea;;2005;;1
+Africa;Western Africa;Guinea;;2006;;1
+Africa;Western Africa;Guinea;92;2007;1;1
+Africa;Western Africa;Guinea;;2008;;1
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;70;2003;1;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;92;2004;1,3;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;;2005;;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;;2006;;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;;2007;;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;;2008;;
+Europe;Eastern Europe;Hungary;535;2003;5,3;1
+Europe;Eastern Europe;Hungary;565;2004;5,6;1
+Europe;Eastern Europe;Hungary;642;2005;6,4;1
+Europe;Eastern Europe;Hungary;479;2006;4,8;1
+Europe;Eastern Europe;Hungary;468;2007;4,7;1
+Europe;Eastern Europe;Hungary;489;2008;4,9;1
+Europe;Northern Europe;Iceland;69;2003;23,9;1
+Europe;Northern Europe;Iceland;51;2004;17,5;1
+Europe;Northern Europe;Iceland;75;2005;25,4;1
+Europe;Northern Europe;Iceland;72;2006;23,9;1
+Europe;Northern Europe;Iceland;87;2007;28,2;1
+Europe;Northern Europe;Iceland;68;2008;21,6;1
+Asia;Southern Asia;India;;2003;;
+Asia;Southern Asia;India;;2004;;
+Asia;Southern Asia;India;18359;2005;1,6;
+Asia;Southern Asia;India;19348;2006;1,7;
+Asia;Southern Asia;India;;2007;;
+Asia;Southern Asia;India;;2008;;
+Europe;Northern Europe;Ireland;370;2003;9,2;
+Europe;Northern Europe;Ireland;446;2004;10,9;
+Europe;Northern Europe;Ireland;540;2005;12,9;
+Europe;Northern Europe;Ireland;426;2006;10;
+Europe;Northern Europe;Ireland;;2007;;
+Europe;Northern Europe;Ireland;;2008;;
+Asia;Western Asia;Israel;1107;2003;11,8;1
+Asia;Western Asia;Israel;1319;2004;15,2;1
+Asia;Western Asia;Israel;1223;2005;18,3;1
+Asia;Western Asia;Israel;1291;2006;19;1
+Asia;Western Asia;Israel;1270;2007;18,3;1
+Asia;Western Asia;Israel;1243;2008;17,6;1
+Europe;Southern Europe;Italy;2744;2003;4,7;
+Europe;Southern Europe;Italy;3734;2004;6,4;
+Europe;Southern Europe;Italy;4020;2005;6,9;
+Europe;Southern Europe;Italy;4513;2006;7,7;
+Europe;Southern Europe;Italy;;2007;;
+Europe;Southern Europe;Italy;;2008;;
+Asia;Eastern Asia;Japan;2472;2003;1,9;1
+Asia;Eastern Asia;Japan;2176;2004;1,7;1
+Asia;Eastern Asia;Japan;2076;2005;1,6;1
+Asia;Eastern Asia;Japan;1948;2006;1,5;1
+Asia;Eastern Asia;Japan;1766;2007;1,4;1
+Asia;Eastern Asia;Japan;1582;2008;1,2;1
+Asia;Western Asia;Jordan;;2003;;
+Asia;Western Asia;Jordan;;2004;;
+Asia;Western Asia;Jordan;78;2005;1,4;
+Asia;Western Asia;Jordan;110;2006;1,9;
+Asia;Western Asia;Jordan;;2007;;
+Asia;Western Asia;Jordan;;2008;;
+Asia;Central Asia;Kazakhstan;;2003;;1
+Asia;Central Asia;Kazakhstan;;2004;;1
+Asia;Central Asia;Kazakhstan;1583;2005;10,4;1
+Asia;Central Asia;Kazakhstan;1584;2006;10,4;1
+Asia;Central Asia;Kazakhstan;1518;2007;9,9;1
+Asia;Central Asia;Kazakhstan;1298;2008;8,4;1
+Africa;Eastern Africa;Kenya;;2003;;0
+Africa;Eastern Africa;Kenya;1440;2004;4,1;0
+Africa;Eastern Africa;Kenya;1365;2005;3,8;0
+Africa;Eastern Africa;Kenya;1291;2006;3,5;0
+Africa;Eastern Africa;Kenya;876;2007;2,3;0
+Africa;Eastern Africa;Kenya;735;2008;1,9;0
+Asia;Central Asia;Kyrgyzstan;296;2003;5,8;
+Asia;Central Asia;Kyrgyzstan;278;2004;5,4;
+Asia;Central Asia;Kyrgyzstan;298;2005;5,7;
+Asia;Central Asia;Kyrgyzstan;271;2006;5,1;
+Asia;Central Asia;Kyrgyzstan;300;2007;5,6;
+Asia;Central Asia;Kyrgyzstan;303;2008;5,6;
+Europe;Northern Europe;Latvia;123;2003;5,3;1
+Europe;Northern Europe;Latvia;319;2004;13,8;1
+Europe;Northern Europe;Latvia;251;2005;11;1
+Europe;Northern Europe;Latvia;129;2006;5,7;1
+Europe;Northern Europe;Latvia;93;2007;4,1;1
+Europe;Northern Europe;Latvia;100;2008;4,4;1
+Asia;Western Asia;Lebanon;;2003;;
+Asia;Western Asia;Lebanon;;2004;;
+Asia;Western Asia;Lebanon;39;2005;1;
+Asia;Western Asia;Lebanon;19;2006;0,5;
+Asia;Western Asia;Lebanon;;2007;;
+Asia;Western Asia;Lebanon;;2008;;
+Africa;Southern Africa;Lesotho;;2003;;
+Africa;Southern Africa;Lesotho;;2004;;
+Africa;Southern Africa;Lesotho;;2005;;
+Africa;Southern Africa;Lesotho;;2006;;
+Africa;Southern Africa;Lesotho;1797;2007;88,4;
+Africa;Southern Africa;Lesotho;1878;2008;91,6;
+Europe;Western Europe;Liechtenstein;0;2003;0;1
+Europe;Western Europe;Liechtenstein;1;2004;2,9;1
+Europe;Western Europe;Liechtenstein;4;2005;11,5;1
+Europe;Western Europe;Liechtenstein;2;2006;5,7;1
+Europe;Western Europe;Liechtenstein;1;2007;2,8;1
+Europe;Western Europe;Liechtenstein;3;2008;8,4;1
+Europe;Northern Europe;Lithuania;278;2003;8;1
+Europe;Northern Europe;Lithuania;260;2004;7,6;1
+Europe;Northern Europe;Lithuania;265;2005;7,8;1
+Europe;Northern Europe;Lithuania;253;2006;7,5;1
+Europe;Northern Europe;Lithuania;200;2007;6;1
+Europe;Northern Europe;Lithuania;164;2008;4,9;1
+Europe;Western Europe;Luxembourg;;2003;;
+Europe;Western Europe;Luxembourg;;2004;;
+Europe;Western Europe;Luxembourg;;2005;;
+Europe;Western Europe;Luxembourg;40;2006;8,5;
+Europe;Western Europe;Luxembourg;44;2007;9,3;
+Europe;Western Europe;Luxembourg;57;2008;11,9;
+Asia;Southern Asia;Maldives;2;2003;0,7;1
+Asia;Southern Asia;Maldives;1;2004;0,3;1
+Asia;Southern Asia;Maldives;;2005;;1
+Asia;Southern Asia;Maldives;;2006;;1
+Asia;Southern Asia;Maldives;5;2007;1,7;1
+Asia;Southern Asia;Maldives;9;2008;3;1
+Europe;Southern Europe;Malta;11;2003;2,8;
+Europe;Southern Europe;Malta;13;2004;3,2;
+Europe;Southern Europe;Malta;7;2005;1,7;
+Europe;Southern Europe;Malta;17;2006;4,2;
+Europe;Southern Europe;Malta;10;2007;2,5;
+Europe;Southern Europe;Malta;19;2008;4,7;
+Africa;Eastern Africa;Mauritius;53;2003;4,3;1
+Africa;Eastern Africa;Mauritius;40;2004;3,2;1
+Africa;Eastern Africa;Mauritius;38;2005;3;1
+Africa;Eastern Africa;Mauritius;64;2006;5,1;1
+Africa;Eastern Africa;Mauritius;77;2007;6,1;1
+Africa;Eastern Africa;Mauritius;69;2008;5,4;1
+Americas;Central America;Mexico;;2003;;
+Americas;Central America;Mexico;;2004;;
+Americas;Central America;Mexico;13407;2005;12,7;
+Americas;Central America;Mexico;13616;2006;12,8;
+Americas;Central America;Mexico;;2007;;
+Americas;Central America;Mexico;;2008;;
+Europe;Western Europe;Monaco;1;2003;3,1;
+Europe;Western Europe;Monaco;;2004;;
+Europe;Western Europe;Monaco;3;2005;9,2;
+Europe;Western Europe;Monaco;2;2006;6,1;
+Europe;Western Europe;Monaco;;2007;;
+Europe;Western Europe;Monaco;;2008;;
+Asia;Eastern Asia;Mongolia;386;2003;15,5;1
+Asia;Eastern Asia;Mongolia;378;2004;15;1
+Asia;Eastern Asia;Mongolia;320;2005;12,6;1
+Asia;Eastern Asia;Mongolia;314;2006;12,2;1
+Asia;Eastern Asia;Mongolia;355;2007;13,6;1
+Asia;Eastern Asia;Mongolia;354;2008;13,4;1
+Europe;Southern Europe;Montenegro;;2003;;1
+Europe;Southern Europe;Montenegro;;2004;;1
+Europe;Southern Europe;Montenegro;8;2005;1,3;1
+Europe;Southern Europe;Montenegro;11;2006;1,8;1
+Europe;Southern Europe;Montenegro;;2007;;1
+Europe;Southern Europe;Montenegro;;2008;;1
+Africa;Northern Africa;Morocco;618;2003;2,1;1
+Africa;Northern Africa;Morocco;453;2004;1,5;1
+Africa;Northern Africa;Morocco;475;2005;1,6;1
+Africa;Northern Africa;Morocco;1063;2006;3,4;1
+Africa;Northern Africa;Morocco;1215;2007;3,9;1
+Africa;Northern Africa;Morocco;1130;2008;3,6;1
+Asia;Southern Asia;Nepal;;2003;;
+Asia;Southern Asia;Nepal;;2004;;
+Asia;Southern Asia;Nepal;191;2005;0,7;
+Asia;Southern Asia;Nepal;210;2006;0,8;
+Asia;Southern Asia;Nepal;;2007;;
+Asia;Southern Asia;Nepal;;2008;;
+Europe;Western Europe;Netherlands;1700;2003;10,5;
+Europe;Western Europe;Netherlands;1800;2004;11,1;
+Europe;Western Europe;Netherlands;1540;2005;9,4;
+Europe;Western Europe;Netherlands;1434;2006;8,7;
+Europe;Western Europe;Netherlands;;2007;;
+Europe;Western Europe;Netherlands;;2008;;
+Oceania;Australia and New Zealand;New Zealand;;2003;;1
+Oceania;Australia and New Zealand;New Zealand;;2004;;1
+Oceania;Australia and New Zealand;New Zealand;1127;2005;27,4;1
+Oceania;Australia and New Zealand;New Zealand;1336;2006;32,2;1
+Oceania;Australia and New Zealand;New Zealand;1314;2007;31,3;1
+Oceania;Australia and New Zealand;New Zealand;1308;2008;30,9;1
+Americas;Central America;Nicaragua;;2003;;
+Americas;Central America;Nicaragua;;2004;;
+Americas;Central America;Nicaragua;1322;2005;24,2;
+Americas;Central America;Nicaragua;1524;2006;27,6;
+Americas;Central America;Nicaragua;;2007;;
+Americas;Central America;Nicaragua;;2008;;
+Europe;Northern Europe;Norway;706;2003;15,5;1
+Europe;Northern Europe;Norway;739;2004;160,7;1
+Europe;Northern Europe;Norway;798;2005;17,2;1
+Europe;Northern Europe;Norway;840;2006;18;1
+Europe;Northern Europe;Norway;945;2007;20;1
+Europe;Northern Europe;Norway;944;2008;19,8;1
+Asia;Western Asia;Occupied Palestinian Territory;85;2003;2,4;
+Asia;Western Asia;Occupied Palestinian Territory;98;2004;2,7;
+Asia;Western Asia;Occupied Palestinian Territory;105;2005;2,8;
+Asia;Western Asia;Occupied Palestinian Territory;;2006;;
+Asia;Western Asia;Occupied Palestinian Territory;;2007;;
+Asia;Western Asia;Occupied Palestinian Territory;;2008;;
+Asia;Western Asia;Oman;;2003;;
+Asia;Western Asia;Oman;;2004;;
+Asia;Western Asia;Oman;;2005;;
+Asia;Western Asia;Oman;;2006;;
+Asia;Western Asia;Oman;132;2007;4,8;
+Asia;Western Asia;Oman;183;2008;6,6;
+Americas;Central America;Panama;;2003;;
+Americas;Central America;Panama;;2004;;
+Americas;Central America;Panama;771;2005;23,9;
+Americas;Central America;Panama;792;2006;24,1;
+Americas;Central America;Panama;;2007;;
+Americas;Central America;Panama;;2008;;
+Americas;South America;Paraguay;;2003;;
+Americas;South America;Paraguay;;2004;;
+Americas;South America;Paraguay;387;2005;6,6;
+Americas;South America;Paraguay;359;2006;6;
+Americas;South America;Paraguay;;2007;;
+Americas;South America;Paraguay;;2008;;
+Americas;South America;Peru;5991;2003;22,1;
+Americas;South America;Peru;5721;2004;20,8;
+Americas;South America;Peru;;2005;;
+Americas;South America;Peru;;2006;;
+Americas;South America;Peru;;2007;;
+Americas;South America;Peru;;2008;;
+Asia;South-Eastern Asia;Philippines;3084;2003;3,7;1
+Asia;South-Eastern Asia;Philippines;2918;2004;3,5;1
+Asia;South-Eastern Asia;Philippines;2982;2005;3,5;1
+Asia;South-Eastern Asia;Philippines;2584;2006;3;1
+Asia;South-Eastern Asia;Philippines;2409;2007;2,7;1
+Asia;South-Eastern Asia;Philippines;2585;2008;2,9;1
+Europe;Eastern Europe;Poland;2322;2003;6,1;1
+Europe;Eastern Europe;Poland;2176;2004;5,7;1
+Europe;Eastern Europe;Poland;1987;2005;5,2;1
+Europe;Eastern Europe;Poland;2001;2006;5,2;1
+Europe;Eastern Europe;Poland;1827;2007;4,8;1
+Europe;Eastern Europe;Poland;1611;2008;4,2;1
+Europe;Southern Europe;Portugal;392;2003;3,8;1
+Europe;Southern Europe;Portugal;338;2004;3,2;1
+Europe;Southern Europe;Portugal;365;2005;3,5;1
+Europe;Southern Europe;Portugal;341;2006;3,2;1
+Europe;Southern Europe;Portugal;305;2007;2,9;1
+Europe;Southern Europe;Portugal;317;2008;3;1
+Asia;Western Asia;Qatar;11;2003;1,5;
+Asia;Western Asia;Qatar;13;2004;1,6;
+Asia;Western Asia;Qatar;;2005;;
+Asia;Western Asia;Qatar;;2006;;
+Asia;Western Asia;Qatar;;2007;;
+Asia;Western Asia;Qatar;;2008;;
+Asia;Eastern Asia;Republic of Korea;5899;2003;12,5;1
+Asia;Eastern Asia;Republic of Korea;6321;2004;13,3;1
+Asia;Eastern Asia;Republic of Korea;;2005;;1
+Asia;Eastern Asia;Republic of Korea;;2006;;1
+Asia;Eastern Asia;Republic of Korea;;2007;;1
+Asia;Eastern Asia;Republic of Korea;;2008;;1
+Europe;Eastern Europe;Republic of Moldova;272;2003;7;1
+Europe;Eastern Europe;Republic of Moldova;297;2004;7,8;1
+Europe;Eastern Europe;Republic of Moldova;247;2005;6,6;1
+Europe;Eastern Europe;Republic of Moldova;229;2006;6,2;1
+Europe;Eastern Europe;Republic of Moldova;231;2007;6,3;1
+Europe;Eastern Europe;Republic of Moldova;262;2008;7,2;1
+Europe;Eastern Europe;Romania;983;2003;4,5;1
+Europe;Eastern Europe;Romania;953;2004;4,4;1
+Europe;Eastern Europe;Romania;1013;2005;4,7;1
+Europe;Eastern Europe;Romania;1116;2006;5,2;1
+Europe;Eastern Europe;Romania;1047;2007;4,9;1
+Europe;Eastern Europe;Romania;1016;2008;4,8;1
+Europe;Eastern Europe;Russian Federation;8185;2003;5,7;1
+Europe;Eastern Europe;Russian Federation;8795;2004;6,1;1
+Europe;Eastern Europe;Russian Federation;9222;2005;6,4;1
+Europe;Eastern Europe;Russian Federation;8871;2006;6,2;1
+Europe;Eastern Europe;Russian Federation;7038;2007;5;1
+Europe;Eastern Europe;Russian Federation;6208;2008;4,4;1
+Europe;Southern Europe;Serbia;;2003;;
+Europe;Southern Europe;Serbia;;2004;;
+Europe;Southern Europe;Serbia;86;2005;0,9;
+Europe;Southern Europe;Serbia;108;2006;1,1;
+Europe;Southern Europe;Serbia;;2007;;
+Europe;Southern Europe;Serbia;;2008;;
+Africa;Western Africa;Sierra Leone;;2003;;
+Africa;Western Africa;Sierra Leone;;2004;;
+Africa;Western Africa;Sierra Leone;;2005;;
+Africa;Western Africa;Sierra Leone;;2006;;
+Africa;Western Africa;Sierra Leone;135;2007;2,5;
+Africa;Western Africa;Sierra Leone;79;2008;1,4;
+Asia;South-Eastern Asia;Singapore;110;2003;2,6;
+Asia;South-Eastern Asia;Singapore;103;2004;2,5;
+Asia;South-Eastern Asia;Singapore;124;2005;2,9;
+Asia;South-Eastern Asia;Singapore;118;2006;2,7;
+Asia;South-Eastern Asia;Singapore;;2007;;
+Asia;South-Eastern Asia;Singapore;;2008;;
+Europe;Eastern Europe;Slovakia;233;2003;4,3;
+Europe;Eastern Europe;Slovakia;224;2004;4,2;
+Europe;Eastern Europe;Slovakia;200;2005;3,7;
+Europe;Eastern Europe;Slovakia;174;2006;3,2;
+Europe;Eastern Europe;Slovakia;182;2007;3,4;
+Europe;Eastern Europe;Slovakia;152;2008;2,8;
+Europe;Southern Europe;Slovenia;70;2003;3,5;1
+Europe;Southern Europe;Slovenia;87;2004;4,4;1
+Europe;Southern Europe;Slovenia;58;2005;2,9;1
+Europe;Southern Europe;Slovenia;55;2006;2,7;1
+Europe;Southern Europe;Slovenia;97;2007;4,8;1
+Europe;Southern Europe;Slovenia;57;2008;2,8;1
+Oceania;Melanesia;Solomon Islands;;2003;;1
+Oceania;Melanesia;Solomon Islands;;2004;;1
+Oceania;Melanesia;Solomon Islands;65;2005;13,7;1
+Oceania;Melanesia;Solomon Islands;79;2006;16,3;1
+Oceania;Melanesia;Solomon Islands;61;2007;12,2;1
+Oceania;Melanesia;Solomon Islands;56;2008;11;1
+Europe;Southern Europe;Spain;;2003;;1
+Europe;Southern Europe;Spain;;2004;;1
+Europe;Southern Europe;Spain;2140;2005;5;1
+Europe;Southern Europe;Spain;2102;2006;4,8;1
+Europe;Southern Europe;Spain;2530;2007;5,7;1
+Europe;Southern Europe;Spain;2437;2008;5,5;1
+Asia;Southern Asia;Sri Lanka;1378;2003;7,2;
+Asia;Southern Asia;Sri Lanka;1432;2004;7,4;
+Asia;Southern Asia;Sri Lanka;;2005;;
+Asia;Southern Asia;Sri Lanka;;2006;;
+Asia;Southern Asia;Sri Lanka;;2007;;
+Asia;Southern Asia;Sri Lanka;;2008;;
+Africa;Northern Africa;Sudan;;2003;;
+Africa;Northern Africa;Sudan;;2004;;
+Africa;Northern Africa;Sudan;;2005;;
+Africa;Northern Africa;Sudan;;2006;;
+Africa;Northern Africa;Sudan;;2007;;
+Africa;Northern Africa;Sudan;1189;2008;2,9;
+Americas;South America;Suriname;297;2003;8,9;
+Americas;South America;Suriname;327;2004;9,8;
+Americas;South America;Suriname;;2005;;
+Americas;South America;Suriname;;2006;;
+Americas;South America;Suriname;;2007;;
+Americas;South America;Suriname;;2008;;
+Africa;Southern Africa;Swaziland;785;2003;70,9;
+Africa;Southern Africa;Swaziland;849;2004;76,1;
+Africa;Southern Africa;Swaziland;;2005;;
+Africa;Southern Africa;Swaziland;;2006;;
+Africa;Southern Africa;Swaziland;;2007;;
+Africa;Southern Africa;Swaziland;;2008;;
+Europe;Northern Europe;Sweden;2235;2003;24,9;0
+Europe;Northern Europe;Sweden;2261;2004;25,1;0
+Europe;Northern Europe;Sweden;3333;2005;36,8;0
+Europe;Northern Europe;Sweden;3703;2006;40,6;0
+Europe;Northern Europe;Sweden;4269;2007;46,6;0
+Europe;Northern Europe;Sweden;4901;2008;53,2;0
+Europe;Western Europe;Switzerland;547;2003;7,5;
+Europe;Western Europe;Switzerland;573;2004;7,8;
+Europe;Western Europe;Switzerland;646;2005;8,7;
+Europe;Western Europe;Switzerland;639;2006;8,5;
+Europe;Western Europe;Switzerland;648;2007;8,6;
+Europe;Western Europe;Switzerland;612;2008;8,1;
+Asia;Western Asia;Syrian Arab Republic;131;2003;0,7;1
+Asia;Western Asia;Syrian Arab Republic;97;2004;0,5;1
+Asia;Western Asia;Syrian Arab Republic;135;2005;0,7;1
+Asia;Western Asia;Syrian Arab Republic;112;2006;0,6;1
+Asia;Western Asia;Syrian Arab Republic;125;2007;0,6;1
+Asia;Western Asia;Syrian Arab Republic;156;2008;0,7;1
+Asia;Central Asia;Tajikistan;;2003;;
+Asia;Central Asia;Tajikistan;;2004;;
+Asia;Central Asia;Tajikistan;72;2005;1,1;
+Asia;Central Asia;Tajikistan;75;2006;1,1;
+Asia;Central Asia;Tajikistan;;2007;;
+Asia;Central Asia;Tajikistan;;2008;;
+Asia;South-Eastern Asia;Thailand;;2003;;
+Asia;South-Eastern Asia;Thailand;;2004;;
+Asia;South-Eastern Asia;Thailand;5071;2005;7,7;
+Asia;South-Eastern Asia;Thailand;5308;2006;8;
+Asia;South-Eastern Asia;Thailand;;2007;;
+Asia;South-Eastern Asia;Thailand;;2008;;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;;2003;;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;;2004;;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;93;2005;4,6;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;103;2006;5,1;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;;2007;;
+Europe;Southern Europe;The former Yugoslav Republic of Macedonia;;2008;;
+Asia;Western Asia;Turkey;1604;2003;2,3;1
+Asia;Western Asia;Turkey;1638;2004;2,3;1
+Asia;Western Asia;Turkey;1694;2005;2,4;1
+Asia;Western Asia;Turkey;1783;2006;2,5;1
+Asia;Western Asia;Turkey;1148;2007;1,6;1
+Asia;Western Asia;Turkey;1071;2008;1,4;1
+Asia;Central Asia;Turkmenistan;37;2003;0,8;
+Asia;Central Asia;Turkmenistan;36;2004;0,8;
+Asia;Central Asia;Turkmenistan;27;2005;0,6;
+Asia;Central Asia;Turkmenistan;27;2006;0,5;
+Asia;Central Asia;Turkmenistan;;2007;;
+Asia;Central Asia;Turkmenistan;;2008;;
+Africa;Eastern Africa;Uganda;537;2003;2;
+Africa;Eastern Africa;Uganda;549;2004;2;
+Africa;Eastern Africa;Uganda;;2005;;
+Africa;Eastern Africa;Uganda;;2006;;
+Africa;Eastern Africa;Uganda;599;2007;2;
+Africa;Eastern Africa;Uganda;1536;2008;4,9;
+Europe;Eastern Europe;Ukraine;1048;2003;2,2;1
+Europe;Eastern Europe;Ukraine;964;2004;2;1
+Europe;Eastern Europe;Ukraine;924;2005;2;1
+Europe;Eastern Europe;Ukraine;993;2006;2,1;1
+Europe;Eastern Europe;Ukraine;878;2007;1,9;1
+Europe;Eastern Europe;Ukraine;880;2008;1,9;1
+Asia;Western Asia;United Arab Emirates;44;2003;1,2;
+Asia;Western Asia;United Arab Emirates;52;2004;1,3;
+Asia;Western Asia;United Arab Emirates;62;2005;1,5;
+Asia;Western Asia;United Arab Emirates;72;2006;1,7;
+Asia;Western Asia;United Arab Emirates;;2007;;
+Asia;Western Asia;United Arab Emirates;;2008;;
+Europe;Northern Europe;United Kingdom (England and Wales);13272;2003;25,1;1
+Europe;Northern Europe;United Kingdom (England and Wales);14013;2004;26,5;1
+Europe;Northern Europe;United Kingdom (England and Wales);14443;2005;27,2;1
+Europe;Northern Europe;United Kingdom (England and Wales);13774;2006;25,6;1
+Europe;Northern Europe;United Kingdom (England and Wales);12637;2007;23,4;1
+Europe;Northern Europe;United Kingdom (England and Wales);13093;2008;24,1;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);364;2003;21,4;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);392;2004;22,9;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);383;2005;22,2;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);475;2006;27,3;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);422;2007;24;1
+Europe;Northern Europe;United Kingdom (Northern Ireland);396;2008;22,3;1
+Europe;Northern Europe;United Kingdom (Scotland);794;2003;15,7;
+Europe;Northern Europe;United Kingdom (Scotland);892;2004;17,6;
+Europe;Northern Europe;United Kingdom (Scotland);975;2005;19,1;
+Europe;Northern Europe;United Kingdom (Scotland);922;2006;18;
+Europe;Northern Europe;United Kingdom (Scotland);;2007;;
+Europe;Northern Europe;United Kingdom (Scotland);;2008;;
+Americas;North America;United States of America;93883;2003;31,6;0
+Americas;North America;United States of America;95089;2004;31,7;0
+Americas;North America;United States of America;94347;2005;31,2;0
+Americas;North America;United States of America;92757;2006;30,3;0
+Americas;North America;United States of America;90427;2007;29,3;0
+Americas;North America;United States of America;89000;2008;28,6;0
+Africa;Eastern Africa;Zimbabwe;3858;2003;30,8;
+Africa;Eastern Africa;Zimbabwe;4997;2004;40;
+Africa;Eastern Africa;Zimbabwe;4790;2005;38,4;
+Africa;Eastern Africa;Zimbabwe;4967;2006;39,9;
+Africa;Eastern Africa;Zimbabwe;4762;2007;38,3;
+Africa;Eastern Africa;Zimbabwe;3186;2008;25,6;

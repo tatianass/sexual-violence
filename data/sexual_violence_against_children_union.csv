@@ -1,0 +1,471 @@
+"region";"subregion";"country_territory";"count";"year";"count_per_1000";"match_definition";"child_definition"
+"Europe";"Southern Europe";"Albania";-1;2003;"";1;18
+"Europe";"Southern Europe";"Albania";-1;2004;"";1;18
+"Europe";"Southern Europe";"Albania";-1;2005;"";1;18
+"Europe";"Southern Europe";"Albania";-1;2006;"";1;18
+"Europe";"Southern Europe";"Albania";52;2007;"1,7";1;18
+"Europe";"Southern Europe";"Albania";29;2008;"0,9";1;18
+"Asia";"Western Asia";"Armenia";-1;2003;"";1;-1
+"Asia";"Western Asia";"Armenia";-1;2004;"";1;-1
+"Asia";"Western Asia";"Armenia";-1;2005;"";1;-1
+"Asia";"Western Asia";"Armenia";-1;2006;"";1;-1
+"Asia";"Western Asia";"Armenia";20;2007;"0,7";1;-1
+"Asia";"Western Asia";"Armenia";46;2008;"1,5";1;-1
+"Asia";"Western Asia";"Azerbaijan";-1;2003;"";1;18
+"Asia";"Western Asia";"Azerbaijan";-1;2004;"";1;18
+"Asia";"Western Asia";"Azerbaijan";-1;2005;"";1;18
+"Asia";"Western Asia";"Azerbaijan";-1;2006;"";1;18
+"Asia";"Western Asia";"Azerbaijan";174;2007;"2";1;18
+"Asia";"Western Asia";"Azerbaijan";182;2008;"2,1";1;18
+"Asia";"Western Asia";"Bahrain";-1;2003;"";1;18
+"Asia";"Western Asia";"Bahrain";-1;2004;"";1;18
+"Asia";"Western Asia";"Bahrain";-1;2005;"";1;18
+"Asia";"Western Asia";"Bahrain";-1;2006;"";1;18
+"Asia";"Western Asia";"Bahrain";63;2007;"8,3";1;18
+"Asia";"Western Asia";"Bahrain";73;2008;"9,4";1;18
+"Europe";"Eastern Europe";"Belarus";-1;2003;"";1;14
+"Europe";"Eastern Europe";"Belarus";-1;2004;"";1;14
+"Europe";"Eastern Europe";"Belarus";-1;2005;"";1;14
+"Europe";"Eastern Europe";"Belarus";-1;2006;"";1;14
+"Europe";"Eastern Europe";"Belarus";64;2007;"0,7";1;14
+"Europe";"Eastern Europe";"Belarus";66;2008;"0,7";1;14
+"Europe";"Western Europe";"Belgium";3354;2003;"32,5";1;18
+"Europe";"Western Europe";"Belgium";3548;2004;"34,2";1;18
+"Europe";"Western Europe";"Belgium";3560;2005;"34,2";1;18
+"Europe";"Western Europe";"Belgium";3831;2006;"36,6";1;18
+"Europe";"Western Europe";"Belgium";3744;2007;"35,6";1;18
+"Europe";"Western Europe";"Belgium";3345;2008;"31,6";1;18
+"Europe";"Eastern Europe";"Bulgaria";693;2003;"8,8";1;14
+"Europe";"Eastern Europe";"Bulgaria";627;2004;"8";1;14
+"Europe";"Eastern Europe";"Bulgaria";507;2005;"6,6";1;14
+"Europe";"Eastern Europe";"Bulgaria";419;2006;"5,4";1;14
+"Europe";"Eastern Europe";"Bulgaria";341;2007;"4,5";1;14
+"Europe";"Eastern Europe";"Bulgaria";306;2008;"4";1;14
+"Africa";"Middle Africa";"Cameroon";333;2003;"2";-1;-1
+"Africa";"Middle Africa";"Cameroon";126;2004;"0,7";-1;-1
+"Africa";"Middle Africa";"Cameroon";117;2005;"0,7";-1;-1
+"Africa";"Middle Africa";"Cameroon";131;2006;"0,7";-1;-1
+"Africa";"Middle Africa";"Cameroon";268;2007;"1,4";-1;-1
+"Africa";"Middle Africa";"Cameroon";177;2008;"0,9";-1;-1
+"Americas";"North America";"Canada";55;2003;"0,2";0;18
+"Americas";"North America";"Canada";54;2004;"0,2";0;18
+"Americas";"North America";"Canada";52;2005;"0,2";0;18
+"Americas";"North America";"Canada";188;2006;"0,6";0;18
+"Americas";"North America";"Canada";542;2007;"1,6";0;18
+"Americas";"North America";"Canada";1379;2008;"4,1";0;18
+"Americas";"South America";"Chile";845;2003;"5,3";1;18
+"Americas";"South America";"Chile";1404;2004;"8,7";1;18
+"Americas";"South America";"Chile";979;2005;"6";1;18
+"Americas";"South America";"Chile";2649;2006;"16,1";1;18
+"Americas";"South America";"Chile";-1;2007;"";1;18
+"Americas";"South America";"Chile";-1;2008;"";1;18
+"Europe";"Southern Europe";"Croatia";231;2003;"5,2";1;14
+"Europe";"Southern Europe";"Croatia";262;2004;"5,9";1;14
+"Europe";"Southern Europe";"Croatia";344;2005;"7,7";1;14
+"Europe";"Southern Europe";"Croatia";298;2006;"6,7";1;14
+"Europe";"Southern Europe";"Croatia";385;2007;"8,7";1;14
+"Europe";"Southern Europe";"Croatia";421;2008;"9,5";1;14
+"Europe";"Eastern Europe";"Czech Republic";1067;2003;"10,5";1;18
+"Europe";"Eastern Europe";"Czech Republic";1029;2004;"10,1";1;18
+"Europe";"Eastern Europe";"Czech Republic";1081;2005;"10,6";1;18
+"Europe";"Eastern Europe";"Czech Republic";890;2006;"8,7";1;18
+"Europe";"Eastern Europe";"Czech Republic";970;2007;"9,4";1;18
+"Europe";"Eastern Europe";"Czech Republic";982;2008;"9,5";1;18
+"Africa";"Northern Africa";"Egypt";109;2003;"0,1";-1;-1
+"Africa";"Northern Africa";"Egypt";78;2004;"0,1";-1;-1
+"Africa";"Northern Africa";"Egypt";118;2005;"0,2";-1;-1
+"Africa";"Northern Africa";"Egypt";127;2006;"0,2";-1;-1
+"Africa";"Northern Africa";"Egypt";145;2007;"0,2";-1;-1
+"Africa";"Northern Africa";"Egypt";167;2008;"0,2";-1;-1
+"Europe";"Northern Europe";"Estonia";-1;2003;"";1;18
+"Europe";"Northern Europe";"Estonia";-1;2004;"";1;18
+"Europe";"Northern Europe";"Estonia";-1;2005;"";1;18
+"Europe";"Northern Europe";"Estonia";244;2006;"18,1";1;18
+"Europe";"Northern Europe";"Estonia";148;2007;"11";1;18
+"Europe";"Northern Europe";"Estonia";260;2008;"19,4";1;18
+"Europe";"Northern Europe";"Finland";744;2003;"14,3";1;18
+"Europe";"Northern Europe";"Finland";846;2004;"16,2";1;18
+"Europe";"Northern Europe";"Finland";946;2005;"18";1;18
+"Europe";"Northern Europe";"Finland";1043;2006;"19,8";1;18
+"Europe";"Northern Europe";"Finland";1025;2007;"19,4";1;18
+"Europe";"Northern Europe";"Finland";1321;2008;"24,9";1;18
+"Europe";"Western Europe";"France";16401;2003;"27,2";1;18
+"Europe";"Western Europe";"France";16791;2004;"27,7";1;18
+"Europe";"Western Europe";"France";14713;2005;"24,1";1;18
+"Europe";"Western Europe";"France";13598;2006;"22,2";1;18
+"Europe";"Western Europe";"France";13661;2007;"22,1";1;18
+"Europe";"Western Europe";"France";14281;2008;"23";1;18
+"Europe";"Western Europe";"Germany";16372;2003;"19,9";0;14
+"Europe";"Western Europe";"Germany";16218;2004;"19,7";0;14
+"Europe";"Western Europe";"Germany";14758;2005;"17,9";0;14
+"Europe";"Western Europe";"Germany";13662;2006;"16,6";0;14
+"Europe";"Western Europe";"Germany";13600;2007;"16,5";0;14
+"Europe";"Western Europe";"Germany";12952;2008;"15,7";0;14
+"Africa";"Western Africa";"Guinea";-1;2003;"";1;-1
+"Africa";"Western Africa";"Guinea";-1;2004;"";1;-1
+"Africa";"Western Africa";"Guinea";-1;2005;"";1;-1
+"Africa";"Western Africa";"Guinea";-1;2006;"";1;-1
+"Africa";"Western Africa";"Guinea";90;2007;"0,9";1;-1
+"Africa";"Western Africa";"Guinea";-1;2008;"";1;-1
+"Europe";"Eastern Europe";"Hungary";598;2003;"5,9";1;18
+"Europe";"Eastern Europe";"Hungary";605;2004;"6";1;18
+"Europe";"Eastern Europe";"Hungary";658;2005;"6,5";1;18
+"Europe";"Eastern Europe";"Hungary";504;2006;"5";1;18
+"Europe";"Eastern Europe";"Hungary";484;2007;"4,8";1;18
+"Europe";"Eastern Europe";"Hungary";573;2008;"5,7";1;18
+"Europe";"Northern Europe";"Iceland";69;2003;"23,9";1;15
+"Europe";"Northern Europe";"Iceland";21;2004;"7,2";1;15
+"Europe";"Northern Europe";"Iceland";57;2005;"19,3";1;15
+"Europe";"Northern Europe";"Iceland";55;2006;"18,2";1;15
+"Europe";"Northern Europe";"Iceland";79;2007;"25,6";1;15
+"Europe";"Northern Europe";"Iceland";102;2008;"32,3";1;15
+"Asia";"Western Asia";"Israel";2817;2003;"43,6";-1;17
+"Asia";"Western Asia";"Israel";2950;2004;"44,9";-1;17
+"Asia";"Western Asia";"Israel";2890;2005;"43,2";-1;17
+"Asia";"Western Asia";"Israel";2883;2006;"42,3";-1;17
+"Asia";"Western Asia";"Israel";2846;2007;"41,1";-1;17
+"Asia";"Western Asia";"Israel";2841;2008;"40,3";-1;17
+"Asia";"Eastern Asia";"Japan";7376;2003;"5,8";1;20
+"Asia";"Eastern Asia";"Japan";6491;2004;"5,1";1;20
+"Asia";"Eastern Asia";"Japan";5845;2005;"4,6";1;20
+"Asia";"Eastern Asia";"Japan";5342;2006;"4,2";1;20
+"Asia";"Eastern Asia";"Japan";4791;2007;"3,8";1;20
+"Asia";"Eastern Asia";"Japan";4386;2008;"3,4";1;20
+"Africa";"Eastern Africa";"Kenya";-1;2003;"";1;18
+"Africa";"Eastern Africa";"Kenya";1233;2004;"3,5";1;18
+"Africa";"Eastern Africa";"Kenya";1067;2005;"3";1;18
+"Africa";"Eastern Africa";"Kenya";1445;2006;"3,9";1;18
+"Africa";"Eastern Africa";"Kenya";1984;2007;"5,3";1;18
+"Africa";"Eastern Africa";"Kenya";1849;2008;"4,8";1;18
+"Asia";"Central Asia";"Kyrgyzstan";12;2003;"0,2";-1;18
+"Asia";"Central Asia";"Kyrgyzstan";14;2004;"0,3";-1;18
+"Asia";"Central Asia";"Kyrgyzstan";13;2005;"0,2";-1;18
+"Asia";"Central Asia";"Kyrgyzstan";10;2006;"0,2";-1;18
+"Asia";"Central Asia";"Kyrgyzstan";11;2007;"0,2";-1;18
+"Asia";"Central Asia";"Kyrgyzstan";9;2008;"0,2";-1;18
+"Europe";"Northern Europe";"Latvia";225;2003;"9,7";1;18
+"Europe";"Northern Europe";"Latvia";558;2004;"24,2";1;18
+"Europe";"Northern Europe";"Latvia";601;2005;"26,2";1;18
+"Europe";"Northern Europe";"Latvia";194;2006;"8,5";1;18
+"Europe";"Northern Europe";"Latvia";375;2007;"16,5";1;18
+"Europe";"Northern Europe";"Latvia";326;2008;"14,4";1;18
+"Europe";"Western Europe";"Liechtenstein";-1;2003;"";1;18
+"Europe";"Western Europe";"Liechtenstein";-1;2004;"";1;18
+"Europe";"Western Europe";"Liechtenstein";-1;2005;"";1;18
+"Europe";"Western Europe";"Liechtenstein";-1;2006;"";1;18
+"Europe";"Western Europe";"Liechtenstein";5;2007;"14,1";1;18
+"Europe";"Western Europe";"Liechtenstein";6;2008;"16,8";1;18
+"Europe";"Northern Europe";"Lithuania";171;2003;"5";1;18
+"Europe";"Northern Europe";"Lithuania";222;2004;"6,5";1;18
+"Europe";"Northern Europe";"Lithuania";304;2005;"8,9";1;18
+"Europe";"Northern Europe";"Lithuania";333;2006;"9,8";1;18
+"Europe";"Northern Europe";"Lithuania";245;2007;"7,3";1;18
+"Europe";"Northern Europe";"Lithuania";222;2008;"6,7";1;18
+"Europe";"Western Europe";"Luxembourg";-1;2003;"";-1;18
+"Europe";"Western Europe";"Luxembourg";-1;2004;"";-1;18
+"Europe";"Western Europe";"Luxembourg";-1;2005;"";-1;18
+"Europe";"Western Europe";"Luxembourg";61;2006;"13";-1;18
+"Europe";"Western Europe";"Luxembourg";80;2007;"16,8";-1;18
+"Europe";"Western Europe";"Luxembourg";91;2008;"18,9";-1;18
+"Asia";"Southern Asia";"Maldives";-1;2003;"";1;18
+"Asia";"Southern Asia";"Maldives";-1;2004;"";1;18
+"Asia";"Southern Asia";"Maldives";-1;2005;"";1;18
+"Asia";"Southern Asia";"Maldives";-1;2006;"";1;18
+"Asia";"Southern Asia";"Maldives";148;2007;"49,2";1;18
+"Asia";"Southern Asia";"Maldives";184;2008;"60,3";1;18
+"Europe";"Southern Europe";"Malta";-1;2003;"";-1;-1
+"Europe";"Southern Europe";"Malta";-1;2004;"";-1;-1
+"Europe";"Southern Europe";"Malta";-1;2005;"";-1;-1
+"Europe";"Southern Europe";"Malta";-1;2006;"";-1;-1
+"Europe";"Southern Europe";"Malta";25;2007;"6,2";-1;-1
+"Europe";"Southern Europe";"Malta";39;2008;"9,6";-1;-1
+"Americas";"Central America";"Mexico";-1;2003;"";-1;18
+"Americas";"Central America";"Mexico";-1;2004;"";-1;18
+"Americas";"Central America";"Mexico";-1;2005;"";-1;18
+"Americas";"Central America";"Mexico";-1;2006;"";-1;18
+"Americas";"Central America";"Mexico";5;2007;"0";-1;18
+"Americas";"Central America";"Mexico";24;2008;"0";-1;18
+"Asia";"Eastern Asia";"Mongolia";5;2003;"0,2";1;18
+"Asia";"Eastern Asia";"Mongolia";9;2004;"0,4";1;18
+"Asia";"Eastern Asia";"Mongolia";9;2005;"0,4";1;18
+"Asia";"Western Africa";"Mongolia";9;2006;"0,3";1;18
+"Asia";"Eastern Asia";"Mongolia";4;2007;"0,2";1;18
+"Asia";"Eastern Asia";"Mongolia";14;2008;"0,5";1;18
+"Europe";"Southern Europe";"Montenegro";-1;2003;"";1;14
+"Europe";"Southern Europe";"Montenegro";-1;2004;"";1;14
+"Europe";"Southern Europe";"Montenegro";-1;2005;"";1;14
+"Europe";"Southern Europe";"Montenegro";-1;2006;"";1;14
+"Europe";"Southern Europe";"Montenegro";6;2007;"1";1;14
+"Europe";"Southern Europe";"Montenegro";10;2008;"1,6";1;14
+"Africa";"Northern Africa";"Morocco";395;2003;"1,3";1;18
+"Africa";"Northern Africa";"Morocco";475;2004;"1,6";1;18
+"Africa";"Northern Africa";"Morocco";1993;2005;"6,5";1;18
+"Africa";"Northern Africa";"Morocco";1554;2006;"5";1;18
+"Africa";"Northern Africa";"Morocco";1356;2007;"4,3";1;18
+"Africa";"Northern Africa";"Morocco";1945;2008;"6,2";1;18
+"Oceania";"Australia and New Zealand";"New Zealand";-1;2003;"";1;16
+"Oceania";"Australia and New Zealand";"New Zealand";-1;2004;"";1;16
+"Oceania";"Australia and New Zealand";"New Zealand";-1;2005;"";1;16
+"Oceania";"Australia and New Zealand";"New Zealand";-1;2006;"";1;16
+"Oceania";"Australia and New Zealand";"New Zealand";1507;2007;"35,9";1;16
+"Oceania";"Australia and New Zealand";"New Zealand";1414;2008;"33,4";1;16
+"Europe";"Northern Europe";"Norway";1096;2003;"24";0;16
+"Europe";"Northern Europe";"Norway";1013;2004;"22";0;16
+"Europe";"Northern Europe";"Norway";950;2005;"20,5";0;16
+"Europe";"Northern Europe";"Norway";1107;2006;"23,7";0;16
+"Europe";"Northern Europe";"Norway";1087;2007;"23";0;16
+"Europe";"Northern Europe";"Norway";1150;2008;"24,1";0;16
+"Asia";"South-Eastern Asia";"Philippines";7316;2003;"8,9";0;18
+"Asia";"South-Eastern Asia";"Philippines";7562;2004;"9";0;18
+"Asia";"South-Eastern Asia";"Philippines";6320;2005;"7,4";0;18
+"Asia";"South-Eastern Asia";"Philippines";6114;2006;"7";0;18
+"Asia";"South-Eastern Asia";"Philippines";8688;2007;"9,8";0;18
+"Asia";"South-Eastern Asia";"Philippines";8588;2008;"9,5";0;18
+"Europe";"Eastern Europe";"Poland";-1;2003;"";1;15
+"Europe";"Eastern Europe";"Poland";-1;2004;"";1;15
+"Europe";"Eastern Europe";"Poland";-1;2005;"";1;15
+"Europe";"Eastern Europe";"Poland";-1;2006;"";1;15
+"Europe";"Eastern Europe";"Poland";1882;2007;"4,9";1;15
+"Europe";"Eastern Europe";"Poland";1683;2008;"4,4";1;15
+"Europe";"Southern Europe";"Portugal";716;2003;"6,9";1;16
+"Europe";"Southern Europe";"Portugal";650;2004;"6,2";1;16
+"Europe";"Southern Europe";"Portugal";530;2005;"5";1;16
+"Europe";"Southern Europe";"Portugal";609;2006;"5,7";1;16
+"Europe";"Southern Europe";"Portugal";647;2007;"6,1";1;16
+"Europe";"Southern Europe";"Portugal";598;2008;"5,6";1;16
+"Europe";"Eastern Europe";"Republic of Moldova";-1;2003;"";0;14
+"Europe";"Eastern Europe";"Republic of Moldova";-1;2004;"";0;14
+"Europe";"Eastern Europe";"Republic of Moldova";-1;2005;"";0;14
+"Europe";"Eastern Europe";"Republic of Moldova";-1;2006;"";0;14
+"Europe";"Eastern Europe";"Republic of Moldova";-1;2007;"";0;14
+"Europe";"Eastern Europe";"Republic of Moldova";67;2008;"1,8";0;14
+"Europe";"Eastern Europe";"Romania";-1;2003;"";1;18
+"Europe";"Eastern Europe";"Romania";-1;2004;"";1;18
+"Europe";"Eastern Europe";"Romania";-1;2005;"";1;18
+"Europe";"Eastern Europe";"Romania";-1;2006;"";1;18
+"Europe";"Eastern Europe";"Romania";588;2007;"2,7";1;18
+"Europe";"Eastern Europe";"Romania";623;2008;"2,9";1;18
+"Europe";"Eastern Europe";"Russian Federation";203;2003;"0,1";1;16
+"Europe";"Eastern Europe";"Russian Federation";751;2004;"0,5";1;16
+"Europe";"Eastern Europe";"Russian Federation";1632;2005;"1,1";1;16
+"Europe";"Eastern Europe";"Russian Federation";3081;2006;"2,2";1;16
+"Europe";"Eastern Europe";"Russian Federation";3911;2007;"2,8";1;16
+"Europe";"Eastern Europe";"Russian Federation";4479;2008;"3,2";1;16
+"Africa";"Western Africa";"Sierra Leone";-1;2003;"";-1;-1
+"Africa";"Western Africa";"Sierra Leone";-1;2004;"";-1;-1
+"Africa";"Western Africa";"Sierra Leone";-1;2005;"";-1;-1
+"Africa";"Western Africa";"Sierra Leone";-1;2006;"";-1;-1
+"Africa";"Western Africa";"Sierra Leone";695;2007;"12,8";-1;-1
+"Africa";"Western Africa";"Sierra Leone";623;2008;"11,2";-1;-1
+"Europe";"Southern Europe";"Slovenia";196;2003;"9,8";1;15
+"Europe";"Southern Europe";"Slovenia";218;2004;"10,9";1;15
+"Europe";"Southern Europe";"Slovenia";188;2005;"9,4";1;15
+"Europe";"Southern Europe";"Slovenia";173;2006;"8,6";1;15
+"Europe";"Southern Europe";"Slovenia";203;2007;"10,1";1;15
+"Europe";"Southern Europe";"Slovenia";159;2008;"7,9";1;15
+"Europe";"Southern Europe";"Spain";-1;2003;"";1;18
+"Europe";"Southern Europe";"Spain";-1;2004;"";1;18
+"Europe";"Southern Europe";"Spain";-1;2005;"";1;18
+"Europe";"Southern Europe";"Spain";-1;2006;"";1;18
+"Europe";"Southern Europe";"Spain";1499;2007;"3,4";1;18
+"Europe";"Southern Europe";"Spain";2210;2008;"5";1;18
+"Europe";"Northern Europe";"Sweden";466;2003;"5,2";1;-1
+"Europe";"Northern Europe";"Sweden";479;2004;"5,3";1;-1
+"Europe";"Northern Europe";"Sweden";733;2005;"8,1";1;-1
+"Europe";"Northern Europe";"Sweden";1134;2006;"12,4";1;-1
+"Europe";"Northern Europe";"Sweden";1214;2007;"13,3";1;-1
+"Europe";"Northern Europe";"Sweden";1421;2008;"15,4";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2003;"";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2004;"";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2005;"";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2006;"";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2007;"";1;-1
+"Asia";"Western Asia";"Syrian Arab Republic";17;2008;"0,1";1;-1
+"Africa";"Eastern Africa";"Uganda";-1;2003;"";-1;18
+"Africa";"Eastern Africa";"Uganda";-1;2004;"";-1;18
+"Africa";"Eastern Africa";"Uganda";-1;2005;"";-1;18
+"Africa";"Eastern Africa";"Uganda";-1;2006;"";-1;18
+"Africa";"Eastern Africa";"Uganda";12230;2007;"39,9";-1;18
+"Africa";"Eastern Africa";"Uganda";8635;2008;"27,3";-1;18
+"Europe";"Eastern Europe";"Ukraine";375;2003;"0,8";1;18
+"Europe";"Eastern Europe";"Ukraine";320;2004;"0,7";1;18
+"Europe";"Eastern Europe";"Ukraine";345;2005;"0,7";1;18
+"Europe";"Eastern Europe";"Ukraine";350;2006;"0,8";1;18
+"Europe";"Eastern Europe";"Ukraine";369;2007;"0,8";1;18
+"Europe";"Eastern Europe";"Ukraine";437;2008;"1";1;18
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";4110;2003;"7,8";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";15396;2004;"29,2";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";17090;2005;"32,2";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";16276;2006;"30,3";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";15152;2007;"28";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";15025;2008;"27,6";1;-1
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";987;2003;"58";1;18
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";971;2004;"56,8";1;18
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";876;2005;"50,8";1;18
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";896;2006;"51,4";1;18
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";892;2007;"50,7";1;18
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";1060;2008;"59,7";1;18
+"Africa";"Eastern Africa";"Kenya";2.621;2009;"6,6";1;18
+"Africa";"Eastern Africa";"Mauritius";256;2009;"19,8";-1;-1
+"Africa";"Eastern Africa";"Uganda";7.36;2009;"22,7";-1;18
+"Africa";"Middle Africa";"Cameroon";-1;2009;"";-1;-1
+"Africa";"Northern Africa";"Algeria";-1;2009;"";-1;-1
+"Africa";"Northern Africa";"Egypt";88;2009;"0,1";-1;-1
+"Africa";"Northern Africa";"Morocco";1.521;2009;"4,8";1;18
+"Africa";"Southern Africa";"Botswana";487;2009;"24,6";-1;-1
+"Africa";"Western Africa";"Guinea";-1;2009;"";1;-1
+"Africa";"Western Africa";"Sierra Leone";-1;2009;"";-1;-1
+"Americas";"Caribbean";"Bahamas";273;2009;"80,7";-1;-1
+"Americas";"Caribbean";"Barbados";28;2009;"10,3";-1;-1
+"Americas";"Caribbean";"Grenada";59;2009;"56,7";-1;-1
+"Americas";"Caribbean";"Jamaica";-1;2009;"";-1;-1
+"Americas";"Caribbean";"Saint Kitts and Nevis";23;2009;"44,4";-1;-1
+"Americas";"Caribbean";"Saint Vincent and the Grenadines";62;2009;"56,7";-1;-1
+"Americas";"Caribbean";"Trinidad and Tobago";278;2009;"20,8";-1;-1
+"Americas";"Central America";"Belize";94;2009;"30,8";-1;-1
+"Americas";"Central America";"El Salvador";1.454;2009;"23,6";-1;-1
+"Americas";"Central America";"Guatemala";247;2009;"1,8";-1;-1
+"Americas";"Central America";"Mexico";2.555;2009;"2,3";-1;18
+"Americas";"Central America";"Nicaragua";-1;2009;"";-1;-1
+"Americas";"Central America";"Panama";21;2009;"0,6";-1;-1
+"Americas";"South America";"Bolivia (Plurinational State of)";1.429;2009;"14,6";-1;-1
+"Americas";"South America";"Chile";8.792;2009;"51,9";1;18
+"Americas";"South America";"Colombia";5.378;2009;"11,8";-1;-1
+"Americas";"South America";"Guyana";10;2009;"1,3";-1;-1
+"Americas";"South America";"Peru";2.109;2009;"7,3";-1;-1
+"Americas";"North America";"Canada";2.693;2009;"8,0";0;18
+"Asia";"Central Asia";"Kyrgyzstan";16;2009;"0,3";-1;18
+"Asia";"Eastern Asia";"Hong Kong Special Administrative Region of China";752;2009;"10,8";-1;-1
+"Asia";"Eastern Asia";"Japan";4.111;2009;"3,2";1;20
+"Asia";"Eastern Asia";"Mongolia";147;2009;"5,4";1;18
+"Asia";"South-Eastern Asia";"Philippines";-1;2009;"";0;18
+"Asia";"Southern Asia";"India";5.368;2009;"0,4";-1;-1
+"Asia";"Southern Asia";"Maldives";-1;2009;"";1;18
+"Asia";"Western Asia";"Armenia";52;2009;"1,7";1;-1
+"Asia";"Western Asia";"Azerbaijan";219;2009;"2,4";1;18
+"Asia";"Western Asia";"Bahrain";-1;2009;"";1;18
+"Asia";"Western Asia";"Georgia";71;2009;"1,6";-1;-1
+"Asia";"Western Asia";"Israel";-1;2009;"";-1;17
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2009;"";1;-1
+"Asia";"Western Asia";"Yemen";222;2009;"1,0";-1;-1
+"Europe";"Eastern Europe";"Belarus";80;2009;"0,8";1;14
+"Europe";"Eastern Europe";"Bulgaria";309;2009;"4,1";1;14
+"Europe";"Eastern Europe";"Czech Republic";829;2009;"7,9";1;18
+"Europe";"Eastern Europe";"Hungary";452;2009;"4,5";1;18
+"Europe";"Eastern Europe";"Poland";1.657;2009;"4,3";1;15
+"Europe";"Eastern Europe";"Republic of Moldova";109;2009;"3,0";0;14
+"Europe";"Eastern Europe";"Romania";-1;2009;"";1;18
+"Europe";"Eastern Europe";"Russian Federation";10.212;2009;"7,1";1;16
+"Europe";"Eastern Europe";"Ukraine";331;2009;"0,7";1;18
+"Europe";"Northern Europe";"Estonia";-1;2009;"";1;18
+"Europe";"Northern Europe";"Finland";1.068;2009;"20,0";1;18
+"Europe";"Northern Europe";"Iceland";-1;2009;"";1;15
+"Europe";"Northern Europe";"Latvia";193;2009;"8,5";1;18
+"Europe";"Northern Europe";"Lithuania";236;2009;"7,1";1;18
+"Europe";"Northern Europe";"Norway";1.189;2009;"24,6";0;16
+"Europe";"Northern Europe";"Sweden";6.575;2009;"70,6";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";17.452;2009;"31,8";1;-1
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";988;2009;"55,2";1;18
+"Europe";"Southern Europe";"Albania";47;2009;"1,5";1;18
+"Europe";"Southern Europe";"Andorra";5;2009;"6,0";-1;-1
+"Europe";"Southern Europe";"Bosnia and Herzegovina";24;2009;"0,6";-1;-1
+"Europe";"Southern Europe";"Croatia";335;2009;"7,6";1;14
+"Europe";"Southern Europe";"Greece";50;2009;"0,4";-1;-1
+"Europe";"Southern Europe";"Italy";1.214;2009;"2,0";-1;-1
+"Europe";"Southern Europe";"Malta";27;2009;"6,5";-1;-1
+"Europe";"Southern Europe";"Montenegro";-1;2009;"";1;14
+"Europe";"Southern Europe";"Portugal";668;2009;"6,3";1;16
+"Europe";"Southern Europe";"Serbia";282;2009;"2,9";-1;-1
+"Europe";"Southern Europe";"Slovenia";199;2009;"9,8";1;15
+"Europe";"Southern Europe";"Spain";1.581;2009;"3,5";1;18
+"Europe";"Western Europe";"Austria";512;2009;"6,1";-1;-1
+"Europe";"Western Europe";"Belgium";3.643;2009;"34,2";1;18
+"Europe";"Western Europe";"France";13.508;2009;"21,6";1;18
+"Europe";"Western Europe";"Germany";11.319;2009;"13,7";0;14
+"Europe";"Western Europe";"Liechtenstein";2;2009;"5,6";1;18
+"Europe";"Western Europe";"Luxembourg";-1;2009;"";-1;18
+"Europe";"Western Europe";"Netherlands";1.195;2009;"7,2";-1;-1
+"Europe";"Western Europe";"Switzerland";1.526;2009;"20,0";-1;-1
+"Oceania";"Australia and New Zealand";"New Zealand";1.439;2009;"33,3";1;16
+"Africa";"Eastern Africa";"Kenya";-1;2010;"";1;18
+"Africa";"Eastern Africa";"Mauritius";297;2010;"22,9";-1;-1
+"Africa";"Eastern Africa";"Uganda";7.564;2010;"22,6";-1;18
+"Africa";"Middle Africa";"Cameroon";-1;2010;"";-1;-1
+"Africa";"Northern Africa";"Algeria";-1;2010;"";-1;-1
+"Africa";"Northern Africa";"Egypt";-1;2010;"";-1;-1
+"Africa";"Northern Africa";"Morocco";-1;2010;"";1;18
+"Africa";"Southern Africa";"Botswana";518;2010;"25,8";-1;-1
+"Africa";"Western Africa";"Guinea";-1;2010;"";1;-1
+"Africa";"Western Africa";"Sierra Leone";-1;2010;"";-1;-1
+"Americas";"Caribbean";"Bahamas";214;2010;"62,4";-1;-1
+"Americas";"Caribbean";"Barbados";-1;2010;"";-1;-1
+"Americas";"Caribbean";"Grenada";36;2010;"34,5";-1;-1
+"Americas";"Caribbean";"Jamaica";1.422;2010;"51,9";-1;-1
+"Americas";"Caribbean";"Saint Kitts and Nevis";27;2010;"51,5";-1;-1
+"Americas";"Caribbean";"Saint Vincent and the Grenadines";56;2010;"51,2";-1;-1
+"Americas";"Caribbean";"Trinidad and Tobago";-1;2010;"";-1;-1
+"Americas";"Central America";"Belize";-1;2010;"";-1;-1
+"Americas";"Central America";"El Salvador";1.55;2010;"25,0";-1;-1
+"Americas";"Central America";"Guatemala";-1;2010;"";-1;-1
+"Americas";"Central America";"Mexico";2.365;2010;"2,1";-1;18
+"Americas";"Central America";"Nicaragua";874;2010;"15,1";-1;-1
+"Americas";"Central America";"Panama";12;2010;"0,3";-1;-1
+"Americas";"South America";"Bolivia (Plurinational State of)";1.996;2010;"20,1";-1;-1
+"Americas";"South America";"Chile";8.706;2010;"50,9";1;18
+"Americas";"South America";"Colombia";4.72;2010;"10,2";-1;-1
+"Americas";"South America";"Guyana";150;2010;"19,9";-1;-1
+"Americas";"South America";"Peru";-1;2010;"";-1;-1
+"Americas";"North America";"Canada";3.648;2010;"10,7";0;18
+"Asia";"Central Asia";"Kyrgyzstan";77;2010;"1,4";-1;18
+"Asia";"Eastern Asia";"Hong Kong Special Administrative Region of China";810;2010;"11,5";-1;-1
+"Asia";"Eastern Asia";"Japan";4.307;2010;"3,4";1;20
+"Asia";"Eastern Asia";"Mongolia";144;2010;"5,2";1;18
+"Asia";"South-Eastern Asia";"Philippines";-1;2010;"";0;18
+"Asia";"Southern Asia";"India";5.484;2010;"0,4";-1;-1
+"Asia";"Southern Asia";"Maldives";-1;2010;"";1;18
+"Asia";"Western Asia";"Armenia";65;2010;"2,1";1;-1
+"Asia";"Western Asia";"Azerbaijan";165;2010;"1,8";1;18
+"Asia";"Western Asia";"Bahrain";-1;2010;"";1;18
+"Asia";"Western Asia";"Georgia";76;2010;"1,7";-1;-1
+"Asia";"Western Asia";"Israel";-1;2010;"";-1;17
+"Asia";"Western Asia";"Syrian Arab Republic";-1;2010;"";1;-1
+"Asia";"Western Asia";"Yemen";-1;2010;"";-1;-1
+"Europe";"Eastern Europe";"Belarus";-1;2010;"";1;14
+"Europe";"Eastern Europe";"Bulgaria";263;2010;"3,5";1;14
+"Europe";"Eastern Europe";"Czech Republic";-1;2010;"";1;18
+"Europe";"Eastern Europe";"Hungary";457;2010;"4,6";1;18
+"Europe";"Eastern Europe";"Poland";1.532;2010;"4,0";1;15
+"Europe";"Eastern Europe";"Republic of Moldova";191;2010;"5,3";0;14
+"Europe";"Eastern Europe";"Romania";-1;2010;"";1;18
+"Europe";"Eastern Europe";"Russian Federation";9.524;2010;"6,7";1;16
+"Europe";"Eastern Europe";"Ukraine";259;2010;"0,6";1;18
+"Europe";"Northern Europe";"Estonia";-1;2010;"";1;18
+"Europe";"Northern Europe";"Finland";1.102;2010;"20,5";1;18
+"Europe";"Northern Europe";"Iceland";-1;2010;"";1;15
+"Europe";"Northern Europe";"Latvia";152;2010;"6,7";1;18
+"Europe";"Northern Europe";"Lithuania";324;2010;"9,7";1;18
+"Europe";"Northern Europe";"Norway";1.276;2010;"26,1";0;16
+"Europe";"Northern Europe";"Sweden";6.905;2010;"73,6";1;-1
+"Europe";"Northern Europe";"United Kingdom (England and Wales)";-1;2010;"";1;-1
+"Europe";"Northern Europe";"United Kingdom (Northern Ireland)";1.044;2010;"58,0";1;18
+"Europe";"Southern Europe";"Albania";38;2010;"1,2";1;18
+"Europe";"Southern Europe";"Andorra";6;2010;"7,1";-1;-1
+"Europe";"Southern Europe";"Bosnia and Herzegovina";89;2010;"2,4";-1;-1
+"Europe";"Southern Europe";"Croatia";279;2010;"6,3";1;14
+"Europe";"Southern Europe";"Greece";-1;2010;"";-1;-1
+"Europe";"Southern Europe";"Italy";1.143;2010;"1,9";-1;-1
+"Europe";"Southern Europe";"Malta";37;2010;"8,9";-1;-1
+"Europe";"Southern Europe";"Montenegro";-1;2010;"";1;14
+"Europe";"Southern Europe";"Portugal";778;2010;"7,3";1;16
+"Europe";"Southern Europe";"Serbia";309;2010;"3,1";-1;-1
+"Europe";"Southern Europe";"Slovenia";244;2010;"12,0";1;15
+"Europe";"Southern Europe";"Spain";1.299;2010;"2,8";1;18
+"Europe";"Western Europe";"Austria";658;2010;"7,8";-1;-1
+"Europe";"Western Europe";"Belgium";3.637;2010;"34,0";1;18
+"Europe";"Western Europe";"France";-1;2010;"";1;18
+"Europe";"Western Europe";"Germany";11.867;2010;"14,4";0;14
+"Europe";"Western Europe";"Liechtenstein";5;2010;"13,9";1;18
+"Europe";"Western Europe";"Luxembourg";-1;2010;"";-1;18
+"Europe";"Western Europe";"Netherlands";950;2010;"5,7";-1;-1
+"Europe";"Western Europe";"Switzerland";1.133;2010;"14,8";-1;-1
+"Oceania";"Australia and New Zealand";"New Zealand";1.512;2010;"34,6";1;16

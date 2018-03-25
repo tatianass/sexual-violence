@@ -1,0 +1,65 @@
+region;subregion;country_territory;entire_territory;federal_state_level;rule_police_record;data_collected_after_report;data_collected_after_report_before_investigation;data_collected_after_investigation;;multiple_offence_as_one;multiple_offenders_as_one;count_unit_used;record_mehtod_modified
+Africa;Eastern Africa;Kenya;1;1;1;1;0;0;1;1;1;Offence;
+Africa;Eastern Africa;Mauritius;1;0;1;1;0;0;;1;1;Offence;
+Africa;Eastern Africa;Uganda;;;;;;;;;;Case investigations relating to one or more persons;
+Africa;Eastern Africa;Zimbabwe;1;;1;1;0;0;;0;1;Offence;
+Africa;Northern Africa;Morocco;0;0;1;1;0;0;1;1;1;Offence;
+Africa;Southern Africa;Lesotho;1;1;1;1;0;0;1;0;0;Offence;
+Africa;Western Africa;Cote d'Ivoire;0;;;;;;1;;;;
+Africa;Western Africa;Guinea;0;;1;0;0;1;1;1;1;Offence;
+Americas;North America;Canada;1;1;1;1;0;0;1;1;1;"Offence.  In the UCR Aggregate Survey, one violent offence equals one victim of violence; and one non-violent offence equals one separate or distinct non-violent incident.";
+Americas;;United States of America;0;1;1;1;0;0;1;1;;Offence;
+Americas;Central America;Mexico;;0;;;;;1;;;;
+Americas;South America;Argentina;1;;1;0;1;0;;0;1;Offence;
+Americas;;Chile;1;0;1;0;1;0;1;0;1;Offence;
+Asia;Central Asia;Kazakhstan;;;1;0;1;0;;1;1;Offence;
+Asia;Eastern Asia;Japan;1;;1;0;0;1;1;1;1;Offence;
+Asia;;Mongolia;1;1;1;1;0;0;;0;1;Offence;
+Asia;;Republic of Korea;1;1;1;1;0;0;;0;1;Offence;
+Asia;South-Eastern Asia;Philippines;1;0;1;0;1;0;1;0;1;Offence;
+Asia;Southern Asia;Maldives;1;1;1;1;0;0;1;1;;Offence;
+Asia;Western Asia;Armenia;1;0;1;0;1;0;;0;1;Offence;
+Asia;Western Asia;Azerbaijan;1;1;1;0;0;1;;0;1;Offence;
+Asia;Western Asia;;1;1;1;1;;;;0;1;;
+Asia;Western Asia;Bahrain;1;1;1;0;0;1;1;1;1;Case investigations relating to one or more persons;
+Asia;Western Asia;Cyprus;1;;1;1;0;0;1;1;1;Offence;
+Asia;Western Asia;Israel;1;;1;1;0;0;;0;1;Case investigations relating to one or more persons;
+Asia;Western Asia;Qatar;1;;1;0;0;1;1;;;Offence;
+Asia;Western Asia;Syrian Arab Republic;1;;1;0;1;0;1;0;1;Offence;
+Asia;Western Asia;Turkey;1;;0;0;0;1;1;1;1;Offence;
+Europe;Eastern Europe;Belarus;1;;1;0;0;1;;0;1;Offence;
+Europe;Eastern Europe;Bulgaria;1;1;1;1;0;0;;0;1;Offence;
+Europe;Eastern Europe;Czech Republic;1;;;;;;;;;;
+Europe;Eastern Europe;Hungary;1;;1;0;0;1;;0;1;Offence;
+Europe;Eastern Europe;Poland;1;0;1;0;0;1;;0;1;Offence;
+Europe;Eastern Europe;Republic of Moldova;1;0;1;0;1;0;;0;0;Case investigations relating to one or more persons;
+Europe;Eastern Europe;;1;1;1;0;0;1;;0;1;Offence;
+Europe;Eastern Europe;Romania;1;;1;0;0;1;1;0;1;Offence;
+Europe;Eastern Europe;Russian Federation;1;1;1;1;0;0;;0;1;Offence;
+Europe;Eastern Europe;Ukraine;;1;1;1;0;0;;1;1;Offence;
+Europe;Northern Europe;Estonia;1;;1;0;1;0;1;;1;Offence;
+Europe;Northern Europe;Finland;1;;1;1;0;0;;0;1;Offence;
+Europe;Northern Europe;Iceland;1;;1;;1;;;0;1;Offence;
+Europe;Northern Europe;Latvia;1;;1;0;1;0;1;0;1;Offence;1
+Europe;Northern Europe;Lithuania;1;0;1;;;;;0;1;Offence;
+Europe;Northern Europe;Norway;0;1;1;1;0;0;;0;1;Offence;1
+Europe;Northern Europe;Sweden;1;;1;1;0;0;;0;1;Offence;
+Europe;Northern Europe;United Kingdom (England and Wales);;;;;;;;;;;
+Europe;Northern Europe;United Kingdom (Northern Ireland);1;1;1;1;0;0;1;1;1;Offence;
+Europe;Southern Europe;Albania;1;0;1;1;0;0;;1;1;Offence;1
+Europe;Southern Europe;Croatia;1;1;1;0;1;0;;0;1;Offence;
+Europe;Southern Europe;Greece;1;;1;1;0;0;;0;1;Offence;
+Europe;Southern Europe;Italy;1;;1;1;0;0;;0;1;Offence;
+Europe;Southern Europe;Malta;;;;;;;1;;;;
+Europe;Southern Europe;Montenegro;1;1;1;1;0;0;1;0;1;Offence;
+Europe;Southern Europe;Portugal;1;;1;1;0;0;1;1;1;Offence;
+Europe;Southern Europe;Slovenia;1;1;1;0;0;1;;0;1;Offence;
+Europe;Southern Europe;Spain;1;; ;1;0;0;;0;1;Infracciones penales;1
+Europe;Western Europe;Austria;;;;1;0;0;;0;1;;
+Europe;Western Europe;Belgium;1;;1;1;0;0;;1;1;Offence;
+Europe;Western Europe;France;1;;1;1;0;0;;0;1;procédure, plaignant, victime, infraction, victime entendue, véhicule, auteur.;
+Europe;Western Europe;Germany;1;1;1;0;0;1;1;Uncertain;1;Offence;
+Europe;Western Europe;Liechtenstein;1;0;0;1;0;0;;0;1;Offence;
+Oceania;Australia and New Zealand;Australia;;0;;;;;1;1;1;Data relate to victims. ;1
+Oceania;Australia and New Zealand;New Zealand;1;0;1;;1;;;0;1;Offence;1
+Oceania;Melanesia;Solomon Islands;1;;;1;;;;1;1;Offence;

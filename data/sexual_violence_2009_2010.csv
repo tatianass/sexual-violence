@@ -1,0 +1,183 @@
+region;subregion;country_territory;count;year;count_per_1000
+Africa;Eastern Africa;Kenya;4.068;2009;10,3
+Africa;Eastern Africa;Mauritius;442;2009;34,2
+Africa;Eastern Africa;Mozambique;613;2009;2,7
+Africa;Eastern Africa;Uganda;8.646;2009;26,7
+Africa;Northern Africa;Algeria;;2009;
+Africa;Northern Africa;Egypt;273;2009;0,3
+Africa;Northern Africa;Morocco;3.252;2009;10,3
+Africa;Western Africa;Cote d'Ivoire;;2009;
+Africa;Western Africa;Guinea;;2009;
+Africa;Western Africa;Sierra Leone;;2009;
+Americas;Caribbean;Bahamas;589;2009;174,1
+Americas;Caribbean;Barbados;174;2009;63,8
+Americas;Caribbean;Grenada;214;2009;205,6
+Americas;Caribbean;Jamaica;1.273;2009;46,6
+Americas;Caribbean;Saint Kitts and Nevis;56;2009;108,2
+Americas;Caribbean;Saint Vincent and the Grenadines;116;2009;106,2
+Americas;Caribbean;Trinidad and Tobago;804;2009;60,2
+Americas;Central America;Belize;202;2009;66,1
+Americas;Central America;El Salvador;1.917;2009;31,1
+Americas;Central America;Guatemala;401;2009;2,9
+Americas;Central America;Mexico;33.815;2009;30,2
+Americas;Central America;Nicaragua;;2009;
+Americas;Central America;Panama;830;2009;24,0
+Americas;South America;Argentina;;2009;
+Americas;South America;Bolivia (Plurinational State of);2.978;2009;30,5
+Americas;South America;Chile;;2009;
+Americas;South America;Colombia;7.670;2009;16,8
+Americas;South America;Guyana;105;2009;13,9
+Americas;North America;Canada;24.821;2009;73,7
+Asia;Central Asia;Kyrgyzstan;34;2009;0,6
+Asia;Central Asia;Tajikistan;37;2009;0,5
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;1.793;2009;25,7
+Asia;Eastern Asia;Japan;8.090;2009;6,4
+Asia;Eastern Asia;Mongolia;347;2009;12,8
+Asia;Eastern Asia;Republic of Korea;16.156;2009;33,7
+Asia;Southern Asia;India;71.117;2009;5,9
+Asia;Southern Asia;Maldives;;2009;
+Asia;Western Asia;Armenia;73;2009;2,4
+Asia;Western Asia;Azerbaijan;267;2009;2,9
+Asia;Western Asia;Bahrain;;2009;
+Asia;Western Asia;Cyprus;96;2009;8,8
+Asia;Western Asia;Georgia;163;2009;3,7
+Asia;Western Asia;Israel;;2009;
+Asia;Western Asia;Kuwait;509;2009;19,2
+Asia;Western Asia;Oman;;2009;
+Asia;Western Asia;Syrian Arab Republic;;2009;
+Asia;Western Asia;Turkey;;2009;
+Asia;Western Asia;Yemen;72;2009;0,3
+Europe;Eastern Europe;Belarus;497;2009;5,2
+Europe;Eastern Europe;Bulgaria;726;2009;9,6
+Europe;Eastern Europe;Czech Republic;1.730;2009;16,6
+Europe;Eastern Europe;Hungary;728;2009;7,3
+Europe;Eastern Europe;Poland;3.187;2009;8,3
+Europe;Eastern Europe;Republic of Moldova;402;2009;11,2
+Europe;Eastern Europe;Romania;;2009;
+Europe;Eastern Europe;Russian Federation;17.903;2009;12,5
+Europe;Eastern Europe;Ukraine;1.698;2009;3,7
+Europe;Northern Europe;Estonia;309;2009;23,0
+Europe;Northern Europe;Finland;2.205;2009;41,3
+Europe;Northern Europe;Iceland;;2009;
+Europe;Northern Europe;Ireland;1.481;2009;33,6
+Europe;Northern Europe;Latvia;315;2009;13,9
+Europe;Northern Europe;Lithuania;362;2009;10,8
+Europe;Northern Europe;Norway;2.410;2009;49,9
+Europe;Northern Europe;Sweden;15.693;2009;168,5
+Europe;Northern Europe;United Kingdom (England and Wales);43.439;2009;79,3
+Europe;Northern Europe;United Kingdom (Northern Ireland);1.501;2009;83,9
+Europe;Northern Europe;United Kingdom (Scotland);6.458;2009;124,3
+Europe;Southern Europe;Albania;83;2009;2,6
+Europe;Southern Europe;Andorra;6;2009;7,2
+Europe;Southern Europe;Bosnia and Herzegovina;89;2009;2,4
+Europe;Southern Europe;Croatia;658;2009;14,9
+Europe;Southern Europe;Greece;713;2009;6,3
+Europe;Southern Europe;Italy;4.963;2009;8,2
+Europe;Southern Europe;Malta;82;2009;19,7
+Europe;Southern Europe;Montenegro;;2009;
+Europe;Southern Europe;Portugal;2.556;2009;24,0
+Europe;Southern Europe;Serbia;455;2009;4,6
+Europe;Southern Europe;Slovenia;345;2009;17,0
+Europe;Southern Europe;Spain;10.684;2009;23,4
+Europe;Western Europe;Austria;1.682;2009;20,1
+Europe;Western Europe;Belgium;6.440;2009;60,4
+Europe;Western Europe;France;23.253;2009;37,2
+Europe;Western Europe;Germany;49.084;2009;59,6
+Europe;Western Europe;Liechtenstein;3;2009;8,4
+Europe;Western Europe;Luxembourg;;2009;
+Europe;Western Europe;Netherlands;10.060;2009;60,8
+Europe;Western Europe;Switzerland;6.648;2009;87,2
+Oceania;Australia and New Zealand;Australia;6.343;2009;29,0
+Oceania;Australia and New Zealand;New Zealand;2.826;2009;65,4
+Oceania;Melanesia;Solomon Islands;;2009;
+Africa;Eastern Africa;Kenya;;2010;
+Africa;Eastern Africa;Mauritius;432;2010;33,3
+Africa;Eastern Africa;Mozambique;;2010;
+Africa;Eastern Africa;Uganda;8.645;2010;25,9
+Africa;Northern Africa;Algeria;;2010;
+Africa;Northern Africa;Egypt;;2010;
+Africa;Northern Africa;Morocco;;2010;
+Africa;Western Africa;Cote d'Ivoire;;2010;
+Africa;Western Africa;Guinea;;2010;
+Africa;Western Africa;Sierra Leone;;2010;
+Americas;Caribbean;Bahamas;474;2010;138,2
+Americas;Caribbean;Barbados;;2010;
+Americas;Caribbean;Grenada;150;2010;143,6
+Americas;Caribbean;Jamaica;1.206;2010;44,0
+Americas;Caribbean;Saint Kitts and Nevis;62;2010;118,3
+Americas;Caribbean;Saint Vincent and the Grenadines;84;2010;76,8
+Americas;Caribbean;Trinidad and Tobago;;2010;
+Americas;Central America;Belize;130;2010;41,7
+Americas;Central America;El Salvador;2.231;2010;36,0
+Americas;Central America;Guatemala;;2010;
+Americas;Central America;Mexico;34.113;2010;30,1
+Americas;Central America;Nicaragua;3.626;2010;62,6
+Americas;Central America;Panama;1.008;2010;28,7
+Americas;South America;Argentina;;2010;
+Americas;South America;Bolivia (Plurinational State of);4.072;2010;41,0
+Americas;South America;Chile;;2010;
+Americas;South America;Colombia;6.715;2010;14,5
+Americas;South America;Guyana;147;2010;19,5
+Americas;North America;Canada;26.666;2010;78,4
+Asia;Central Asia;Kyrgyzstan;368;2010;6,9
+Asia;Central Asia;Tajikistan;;2010;
+Asia;Eastern Asia;Hong Kong Special Administrative Region of China;1.836;2010;26,0
+Asia;Eastern Asia;Japan;8.316;2010;6,6
+Asia;Eastern Asia;Mongolia;362;2010;13,1
+Asia;Eastern Asia;Republic of Korea;;2010;
+Asia;Southern Asia;India;72.746;2010;5,9
+Asia;Southern Asia;Maldives;;2010;
+Asia;Western Asia;Armenia;82;2010;2,7
+Asia;Western Asia;Azerbaijan;204;2010;2,2
+Asia;Western Asia;Bahrain;;2010;
+Asia;Western Asia;Cyprus;;2010;
+Asia;Western Asia;Georgia;165;2010;3,8
+Asia;Western Asia;Israel;;2010;
+Asia;Western Asia;Kuwait;;2010;
+Asia;Western Asia;Oman;;2010;
+Asia;Western Asia;Syrian Arab Republic;;2010;
+Asia;Western Asia;Turkey;;2010;
+Asia;Western Asia;Yemen;;2010;
+Europe;Eastern Europe;Belarus;;2010;
+Europe;Eastern Europe;Bulgaria;696;2010;9,3
+Europe;Eastern Europe;Czech Republic;;2010;
+Europe;Eastern Europe;Hungary;764;2010;7,7
+Europe;Eastern Europe;Poland;3.099;2010;8,1
+Europe;Eastern Europe;Republic of Moldova;557;2010;15,6
+Europe;Eastern Europe;Romania;;2010;
+Europe;Eastern Europe;Russian Federation;15.770;2010;11,0
+Europe;Eastern Europe;Ukraine;1.348;2010;3,0
+Europe;Northern Europe;Estonia;;2010;
+Europe;Northern Europe;Finland;2.417;2010;45,1
+Europe;Northern Europe;Iceland;;2010;
+Europe;Northern Europe;Ireland;2.372;2010;53,1
+Europe;Northern Europe;Latvia;231;2010;10,3
+Europe;Northern Europe;Lithuania;514;2010;15,5
+Europe;Northern Europe;Norway;2.448;2010;50,1
+Europe;Northern Europe;Sweden;17.167;2010;183,0
+Europe;Northern Europe;United Kingdom (England and Wales);45.326;2010;82,1
+Europe;Northern Europe;United Kingdom (Northern Ireland);1.632;2010;90,7
+Europe;Northern Europe;United Kingdom (Scotland);6.509;2010;124,6
+Europe;Southern Europe;Albania;79;2010;2,5
+Europe;Southern Europe;Andorra;9;2010;10,6
+Europe;Southern Europe;Bosnia and Herzegovina;147;2010;3,9
+Europe;Southern Europe;Croatia;567;2010;12,9
+Europe;Southern Europe;Greece;;2010;
+Europe;Southern Europe;Italy;4.813;2010;7,9
+Europe;Southern Europe;Malta;91;2010;21,8
+Europe;Southern Europe;Montenegro;;2010;
+Europe;Southern Europe;Portugal;2.206;2010;20,7
+Europe;Southern Europe;Serbia;493;2010;5,0
+Europe;Southern Europe;Slovenia;375;2010;18,5
+Europe;Southern Europe;Spain;9.958;2010;21,6
+Europe;Western Europe;Austria;1.971;2010;23,5
+Europe;Western Europe;Belgium;6.491;2010;60,6
+Europe;Western Europe;France;;2010;
+Europe;Western Europe;Germany;46.869;2010;56,9
+Europe;Western Europe;Liechtenstein;6;2010;16,7
+Europe;Western Europe;Luxembourg;;2010;
+Europe;Western Europe;Netherlands;9.090;2010;54,7
+Europe;Western Europe;Switzerland;6.321;2010;82,5
+Oceania;Australia and New Zealand;Australia;6.378;2010;28,6
+Oceania;Australia and New Zealand;New Zealand;2.913;2010;66,7
+Oceania;Melanesia;Solomon Islands;;2010;
